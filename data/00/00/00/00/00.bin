@@ -1,0 +1,102 @@
+                         ______            _____         ______
+                   _____/     /   _  _____/    /   __  __\___  \__
+         _ _____  _\   /     /  _____    /   _/ _______    _/   _/_ _____
+          _____/___   /     /__/    /   _    \__\__   /__  \      / ____/___
+      ______      /  /_    /  /   _/    /     /   /     /  /     /___      /
+    _ /    /     /________/  _    \____/_____/   /     /__/_____/   /     /_
+  _///    /     /   _ _      /     /   __ _     /     /    _ _     /     ///_
+  - /__________/ ---- /_____/_____/ ----- /__________/ ----- /__________/ ---
+  |                                                                         |
+  |                 - P R O U D L Y      P R E S E N T S -                  |
+..:_________________________________________________________________________:..
+  :                                                                         :
+  |       Title : Mario & Sonic at the Olympic Games Tokyo 2020             |
+  |               (Language Unlocker)                                       |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |   Publisher : Sega                        Platform : Nintendo Switch    |
+  |   Developer : Sega                          Origin : eShop              |
+  |       Genre : Action / Multiplayer        Title ID : 010002C00C270000   |
+  |        Date : November 2019                 Format : 01x26MB / LFS      |
+  |                                                                         |
+  :_________________________________________________________________________:
+  |                                                                         |
+  |     Summary                                                             |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |   Join the world's greatest sports party!                               |
+  |                                                                         |
+  |   Celebrate the Olympic Games Tokyo 2020 with your favorite             |
+  |   characters, loads of events, and so many ways to enjoy the party on   |
+  |   your Nintendo Switch! Have a blast competing with your friends in     |
+  |   30+ action-packed 3D and classic 2D sports games - including new      |
+  |   events for Tokyo 2020!                                                |
+  |                                                                         |
+  |   Compete in all-new Olympic sports - skateboarding, surfing, sport     |
+  |   climbing, and karate - and a variety of events including archery,     |
+  |   gymnastics, judo, boxing, marathon, football, equestrian, track and   |
+  |   field, and many more.                                                 |
+  |                                                                         |
+  |   Experience the Olympic Games in a brand-new way with 10 nostalgic     |
+  |   2D events that bring Mario, Sonic, & friends back to their classic    |
+  |   roots.                                                                |
+  |                                                                         |
+  |   Choose from an incredible cast of characters, including Mario,        |
+  |   Luigi, Sonic, Tails, Yoshi, Amy Rose, Waluigi, Dr. Eggman, and many   |
+  |   more!                                                                 |
+  |                                                                         |
+  |   There are so many ways to play on your Nintendo Switch! Enjoy a       |
+  |   variety of play styles, including motion and button controls,         |
+  |   single and dual Joy-Con, single-player and multiplayer, local and     |
+  |   online!                                                               |
+  |                                                                         |
+  |   Languages: English, French, Italian, German, Spanish, Portuguese      |
+  |   (Brazil), Dutch and Russian.                                          |
+  |                                                                         |
+  |   Release notes:                                                        |
+  |                                                                         |
+  |   This little patch is to be used for the JPN/Asian release of the      |
+  |   game (010002C00C270000) and will allow you to select all other        |
+  |   languages from the US/EU version (the ones mentioned right up         |
+  |   above). This will basically render the US/EU releases useless.        |
+  |                                                                         |
+  |   Once installed, in-game go to My Data / Options / Select Language     |
+  |   and choose your favorite language.                                    |
+  |                                                                         |
+  |   Also keep in mind that once you set your language, you can freely     |
+  |   delete our patch, it will still save your language (which you would   |
+  |   need to do if there is eventually an update for it one day).          |
+  |                                                                         |
+  |   Install instructions: you need to unrar our release on the root       |
+  |   of your SDCARD. Depending on your OS, it *could* overwrite existing   |
+  |   sxos + atmosphere folders on your SDCARD, so make sure you merge      |
+  |   it instead of overwriting it. If you are using exFAT, you might run   |
+  |   into the "archive bit issue". Instructions to set it up depends on    |
+  |   the OS. You can skip the following steps if your SD is formatted as   |
+  |   FAT32.                                                                |
+  |                                                                         |
+  |   On Windows :                                                          |
+  |   1. Select the sxos/atmosphere folders at the root of your SD card.    |
+  |   2. Right click the items and select "Properties".                     |
+  |   3. Select "Advanced...". Untick the "Folder is ready for archiving"   |
+  |      checkbox, then click "OK".                                         |
+  |   4. Click "Apply". When the confirmation dialog comes up, select:      |
+  |      "Apply changes to this folder, subfolders and files", click "OK".  |
+  |                                                                         |
+  |   On UNIX/OSX based systems type these two commands on the terminal :   |
+  |   sudo chflags -R arch /Volumes/YOURSDVOLUME/sxos                       |
+  |   sudo chflags -R arch /Volumes/YOURSDVOLUME/atmosphere                 |
+  |                                                                         |
+  |                                                                         |
+  :_________________________________________________________________________:
+  |                                                                         |
+  |      Greets                                                             |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |       Abstrakt . Capital . Caravan . Dual Crew Shining . Eurasia        |
+  |      Lightforce . Menace . Mode 7 . Nightfall . Oldskool . Paradox      |
+  |        Quartex . Quasar . Rising Sun . Squire . Triforce . Venom        |
+  :                                                                         :
+..:_________________________________________________________________________:..
+  :                                                                         :
+  .                   SUXXORS - Scene fluent! Since 2003.                   .
